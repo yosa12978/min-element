@@ -1,0 +1,13 @@
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.exe
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.deps.json
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.runtimeconfig.json
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.runtimeconfig.dev.json
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.dll
+D:\Проект информатика\vvodSearch\bin\Debug\netcoreapp3.1\vvodSearch.pdb
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.csprojAssemblyReference.cache
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.csproj.CoreCompileInputs.cache
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.AssemblyInfoInputs.cache
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.AssemblyInfo.cs
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.dll
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.pdb
+D:\Проект информатика\vvodSearch\obj\Debug\netcoreapp3.1\vvodSearch.genruntimeconfig.cache
